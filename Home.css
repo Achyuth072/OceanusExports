@@ -1,0 +1,75 @@
+﻿* {
+    margin-top: 0;
+}
+
+.lbox {
+    width: 20%;
+    position: absolute;
+    left: 0px;
+    max-height: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.rbox {
+    width: 80%;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+    float: right;
+}
+
+.logo {
+    width: 156px;
+    height: 178px;
+    left: 96px;
+    top: 75px;
+    padding-top: 95.6px;
+    margin-left: 122px;
+}
+
+.sidebar {
+    width: 323px;
+    height: 772px;
+    left: 0px;
+    top: 308px;
+    background: #215FA9;
+    mix-blend-mode: normal;
+    padding-top: 95.6px;
+    margin-left: 50px;
+}
+
+.button1 {
+    width: 209px;
+    height: 39px;
+    left: 43px;
+    top: 327px;
+    margin-left:50px;
+    border: none;
+    box-sizing: border-box;
+    background: #215FA9;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.rectangle {
+    width: 323px;
+    height: 75px;
+    left: 0px;
+    top: 307px;
+    mix-blend-mode: normal;
+    border: 1px solid #47C2C7;
+    box-sizing: border-box;
+}
+
+
+body
+{
+}
