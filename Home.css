@@ -1,7 +1,10 @@
-﻿* {
-    margin-top: 0;
+﻿html, body {
+    overflow: hidden;
 }
 
+body {
+    margin: 0px;
+}
 .lbox {
     width: 20%;
     position: absolute;
@@ -23,9 +26,9 @@
     width: 156px;
     height: 178px;
     left: 96px;
-    top: 75px;
-    padding-top: 95.6px;
-    margin-left: 122px;
+    top: 75px;    
+    margin-left: 70px;
+    padding-bottom: 25px;
 }
 
 .sidebar {
@@ -35,8 +38,8 @@
     top: 308px;
     background: #215FA9;
     mix-blend-mode: normal;
-    padding-top: 95.6px;
-    margin-left: 50px;
+    padding-top: 20px;
+    margin-left: ;
 }
 
 .button1 {
@@ -44,7 +47,8 @@
     height: 39px;
     left: 43px;
     top: 327px;
-    margin-left:50px;
+    margin-left: 40px;
+    margin-bottom: 0px;
     border: none;
     box-sizing: border-box;
     background: #215FA9;
@@ -55,7 +59,7 @@
     line-height: 32px;
     display: flex;
     align-items: center;
-    color: #FFFFFF;
+    color: #00C0F3;
     cursor: pointer;
 }
 
@@ -68,6 +72,14 @@
     border: 1px solid #47C2C7;
     box-sizing: border-box;
 }
+
+.icons {
+    position:absolute;
+    top: 0;
+    right: 0;
+    
+}
+   
 
 
 body
